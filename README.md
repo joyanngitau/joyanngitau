@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and Uni Student
 - I'm an IT Student at Jomo Kenyatta University of Agriculture and Technology
-- I'm currently learning data science
+- I'm currently learning Big Data
 - 2022 Goal: Launch one major project
 - Interesting quote: Face Yourself Gently(Japanese)
 
