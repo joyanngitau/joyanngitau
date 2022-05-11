@@ -4,7 +4,7 @@
 - I'm an IT Student at Jomo Kenyatta University of Agriculture and Technology
 - I'm currently learning Big Data
 - 2022 Goal: Launch one major project
-- Interesting quote: Face Yourself Gently(Japanese)
+- Favorite quote: Face Yourself Gently(Japanese)~reminds me to be kind to myself
 
 ### Connect with me:
 
