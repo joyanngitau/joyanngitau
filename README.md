@@ -2,6 +2,15 @@
 <h1 align="center">Hey, I'm JoyAnn</h1>
 <h3 align="center">A software engineer from Nairobi</h3>
 
+<p>Welcome to my page!</p>
+
+- 🔭 I’m currently working on solving problems with JavaScript
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: gitaujoyann@gmail.com
+- 😄 Pronouns: she/her
+- 🤔 I’m looking for help with Probability & Statistics II
+- 👯 I’m looking to collaborate on building a mobile POS for Kenyan SMEs
+
 <!-- social media links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joyann-gitau"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
