@@ -41,7 +41,7 @@
 
 <details>
     <summary>My Latest Github Metrics</summary>
-    <pre>
+    
         ![Metrics](https://metrics.lecoq.io/joyanngitau?template=classic&base.header=0&gists=1&lines=1&config.timezone=Kenya%2FNairobi)
-    </pre>
+    
 </details>
