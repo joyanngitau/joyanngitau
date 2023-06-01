@@ -1,6 +1,12 @@
 <!-- name -->
 <h1 align="center">Hey, I'm JoyAnn</h1>
 <h3 align="center">A software engineer from Nairobi</h3>
+<!-- social media links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/joyann-gitau"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.twitter.com/in/joyanngitau"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.instagram.com/in/joyann.gitau"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+</p>
 
 <p>Welcome to my page!</p>
 
@@ -10,13 +16,6 @@
 - 😄 Pronouns: she/her
 - 🤔 I’m looking for help with Probability & Statistics II
 - 👯 I’m looking to collaborate on building a mobile POS for Kenyan SMEs
-
-<!-- social media links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/joyann-gitau"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.twitter.com/in/joyanngitau"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://www.instagram.com/in/joyann.gitau"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-</p>
 
 
 ## Languages
@@ -40,5 +39,9 @@
 
 <a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=joyanngitau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyanngitau&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-## My Latest Github Metrics
-![Metrics](https://metrics.lecoq.io/joyanngitau?template=classic&base.header=0&gists=1&lines=1&config.timezone=Kenya%2FNairobi)
+<details>
+  <summary>My Latest Github Metrics</summary>
+  <pre>
+    ![Metrics](https://metrics.lecoq.io/joyanngitau?template=classic&base.header=0&gists=1&lines=1&config.timezone=Kenya%2FNairobi)
+  </pre>
+</details>
